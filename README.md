@@ -1,0 +1,1 @@
+This is a speech emotion recognition project that collects speech data from Kaggle (https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess/data), analyzes it to create an ML model for predicting emotions from speech.
